@@ -15,7 +15,7 @@ It has a single end point called `predict` which takes input file and returns a 
 
 ### Model Details
 1. Used Final Model as ResNet50 for transfer learning
-2. Model was trained on around 1700 images (60% Training, 20% Validation and 20% Test) with 6 target classes
+2. Model was trained on around 2300 images (60% Training, 20% Validation and 20% Test) with 6 target classes
    1. Front Normal
    1. Front Crushed
    1. Front Breakage
