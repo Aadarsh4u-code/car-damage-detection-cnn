@@ -5,6 +5,8 @@ __pycache__/
 .DS_Store
 dataset
 guideliness
+app/model/
+fastapi-server/model/
 
 # C extensions
 *.so
